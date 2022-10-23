@@ -1,6 +1,6 @@
  # U-hoch-3: Unbeschwert urban unterwegs 
 
-HINTERGRUND UND ZIEL 
+**HINTERGRUND UND ZIEL**
 
 Selbst in deutschen Metropolen, die üblicherweise ein gutes Angebot des öffentlichen Personennahverkehrs (ÖPNV) aufweisen, 
 werden im Schnitt 59% der Personenkilometer mit dem motorisierten Individualverkehr (MIV) zurückgelegt.
